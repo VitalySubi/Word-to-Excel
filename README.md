@@ -1,4 +1,4 @@
-# Word-two-Excel
+# Word-to-Excel
 
 Небольшая программка для переноса содержимого (таблиц) из документа MS Word в MS Excel.
 Используются Interop.
